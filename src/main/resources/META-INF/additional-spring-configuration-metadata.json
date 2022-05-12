@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "mybatis.configuration.useGeneratedKeys",
+      "type": "java.lang.String",
+      "description": "Description for mybatis.configuration.useGeneratedKeys."
+  }
+] }
